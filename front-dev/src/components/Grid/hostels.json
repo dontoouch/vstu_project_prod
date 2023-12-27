@@ -1,0 +1,94 @@
+
+
+ [{
+    "id": 345,
+    "sourceId": 0,
+    "updated": null,
+    "status": "ACTIVE",
+    "roomNumber": 301,
+    "roomType": "LITTLE",
+    "floor": 3,
+    "hostel": "HOSTEL_3",
+    "students": [
+      {
+        "id": 3101,
+        "sourceId": 16469,
+        "updated": "2023-10-24T10:19:14.023551",
+        "status": "ACTIVE",
+        "surname": "Терех",
+        "name": "Ксения",
+        "patronymic": "Александровна",
+        "sex": 0,
+        "address": null,
+        "addressCountry": "",
+        "addressIndex": "222810",
+        "addressState": "Минская",
+        "addressRegion": "Пуховичский",
+        "addressCity": "Марьина Горка",
+        "addressStreet": "Новая Заря",
+        "addressHouse": "4",
+        "addressHousePart": "",
+        "addressFlat": "10",
+        "phone": "+375(25)7416679(life),8(1713)5",
+        "approved": false
+      },
+      {
+        "id": 3101,
+        "sourceId": 16469,
+        "updated": "2023-10-24T10:19:14.023551",
+        "status": "ACTIVE",
+        "surname": "Терех",
+        "name": "Ксения",
+        "patronymic": "Александровна",
+        "sex": 0,
+        "address": null,
+        "addressCountry": "",
+        "addressIndex": "222810",
+        "addressState": "Минская",
+        "addressRegion": "Пуховичский",
+        "addressCity": "Марьина Горка",
+        "addressStreet": "Новая Заря",
+        "addressHouse": "4",
+        "addressHousePart": "",
+        "addressFlat": "10",
+        "phone": "+375(25)7416679(life),8(1713)5",
+        "approved": false
+      },
+      {
+        "id": 3101,
+        "sourceId": 16469,
+        "updated": "2023-10-24T10:19:14.023551",
+        "status": "ACTIVE",
+        "surname": "Терех",
+        "name": "Ксения",
+        "patronymic": "Александровна",
+        "sex": 0,
+        "address": null,
+        "addressCountry": "",
+        "addressIndex": "222810",
+        "addressState": "Минская",
+        "addressRegion": "Пуховичский",
+        "addressCity": "Марьина Горка",
+        "addressStreet": "Новая Заря",
+        "addressHouse": "4",
+        "addressHousePart": "",
+        "addressFlat": "10",
+        "phone": "+375(25)7416679(life),8(1713)5",
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": 346,
+    "sourceId": 0,
+    "updated": null,
+    "status": "ACTIVE",
+    "roomNumber": 301,
+    "roomType": "LITTLE",
+    "floor": 3,
+    "hostel": "HOSTEL_3",
+    "students": []
+  }
+  ]
+
+
